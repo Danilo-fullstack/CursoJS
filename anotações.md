@@ -114,3 +114,10 @@ Ordem de precedência de TODOS OS OPERADORES:
 	src("../_prints/Arvore-DOM")
 Selecionando:
 	src("../_prints/Arvore-DOM/Arvore-DOM-selecionando/")
+
+-------------- Aula #09 --------------------
+
+Alguns Eventos DOM:
+	src("../_prints/Arvore-DOM")
+
+a.addEventListener('click', clicar) 	<!-- Ouvidores de Eventos -->
