@@ -115,9 +115,23 @@ Ordem de precedência de TODOS OS OPERADORES:
 Selecionando:
 	src("../_prints/Arvore-DOM/Arvore-DOM-selecionando/")
 
--------------- Aula #09 --------------------
+-------------- Aula #10 --------------------
 
 Alguns Eventos DOM:
 	src("../_prints/Arvore-DOM")
 
 a.addEventListener('click', clicar) 	<!-- Ouvidores de Eventos -->
+
+-------------- Aula #11 --------------------
+
+Condição simples:
+    if (media > 7) {
+        log('aprovado')
+    }
+
+Condição composta:
+    if (media > 7) {
+        log('aprovado')
+    } else {
+        log('reprovado') 
+    }
